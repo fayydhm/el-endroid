@@ -9,7 +9,7 @@ fun grade () {
     val bagus = 'B'
     val cukup = 'C'
 
-    println("Andi mendapat matematika dengan grade : "+ sangatbagus)
+    println("Andi mendapat nilai fiqih dengan grade : "+ sangatbagus)
     println ("Anton mendapatkan nilai fisika dengan grade : $bagus")
     println ("Budi mendapatkan nilai kimia dengan grade : $sangatbagus")
     println ("Sehingga orang tua mereka semua bangga")
